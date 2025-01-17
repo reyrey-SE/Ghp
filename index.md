@@ -1,22 +1,38 @@
-# Welcome to My Public GitHub Page
+<link rel="stylesheet" href="style.css">
 
-Hi there! 👋 Welcome to my GitHub Page, where I share my journey as a developer, my projects, and my passion for technology. Here, you'll find a collection of repositories showcasing my skills, experiments, and contributions to the open-source community.
+<div class="header">
+    <h1>Welcome to My Public GitHub Page</h1>
+    <p>Hi there! 👋 Welcome to my GitHub Page, where I share my journey as a developer, my projects, and my passion for technology.</p>
+</div>
 
 ## About Me
 
-I am a **Beginner** with a focus on **Game Development, Web Development, etc.**. I'm currently working on exciting projects like:
-- **Room Rental website**: easy to post your room for rent online
+<div class="about-me">
+    <p>I am a <strong>Beginner</strong> with a focus on <strong>Game Development, Web Development, etc.</strong>.</p>
+    <p>I'm currently working on exciting projects like:</p>
+    <ul>
+        <li><strong>Room Rental Website</strong>: Easy to post your room for rent online.</li>
+    </ul>
+</div>
 
 ## Projects You'll Find Here
 
 ### 🖥️ Featured Projects
-- **Room Rent**: not finish yet but all goods
-
+<div class="projects">
+    <ul>
+        <li><strong>Room Rent</strong>: Not finished yet, but looking good so far!</li>
+    </ul>
+</div>
 
 ## How to Connect
-I'm always open to collaboration, feedback, or just a friendly chat about tech. Feel free to reach out to me:
-- **Email**: reynier@gmail.com
+<div class="contact">
+    <p>I'm always open to collaboration, feedback, or just a friendly chat about tech. Feel free to reach out to me:</p>
+    <ul>
+        <li><strong>Email</strong>: <a href="mailto:reynier@gmail.com">reynier@gmail.com</a></li>
+    </ul>
+</div>
 
 ---
 
-Thank you for visiting my GitHub page! Check out my repositories and stay tuned for more updates. 🌟
+<p>Thank you for visiting my GitHub page! Check out my repositories and stay tuned for more updates. 🌟</p>
+
