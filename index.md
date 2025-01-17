@@ -1,6 +1,7 @@
 <link rel="stylesheet" href="style.css">
 
 <div class="header">
+    <img src="https://via.placeholder.com/150" alt="Profile Picture" class="profile-pic">
     <h1>Welcome to My Public GitHub Page</h1>
     <p>Hi there! 👋 Welcome to my GitHub Page, where I share my journey as a developer, my projects, and my passion for technology.</p>
 </div>
@@ -34,5 +35,10 @@
 
 ---
 
-<p>Thank you for visiting my GitHub page! Check out my repositories and stay tuned for more updates. 🌟</p>
+<div class="cta">
+    <button id="ctaButton">Click Me!</button>
+</div>
 
+<script src="script.js"></script>
+
+<p>Thank you for visiting my GitHub page! Check out my repositories and stay tuned for more updates. 🌟</p>
